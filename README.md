@@ -115,7 +115,7 @@ two sorted array
 Given an unsorted integer array nums, return the smallest missing positive integer.
 
 ### Input
-two sorted array
+unsorted integer array
 
 :clock2: Time limit 1 second
 
